@@ -1,12 +1,12 @@
 Last Update: 11-15-2021
 
-Kevin Lumbard
-Asssistant Professor of Computer Science
-Creighton University
-Department of Computer Science, Design & Journalism
-[...]
-Omaha, NE [...]
-Email: kmlumbard@gmail.com, kevinlumbard@creighton.edu
+Kevin Lumbard  
+Asssistant Professor of Computer Science  
+Creighton University  
+Department of Computer Science, Design & Journalism  
+[...]  
+Omaha, NE [...]  
+Email: kmlumbard@gmail.com, kevinlumbard@creighton.edu  
 
 RESEARCH SUMMARY
 ----------------
